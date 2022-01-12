@@ -13,13 +13,6 @@
       "tech": "Sara Wilson",
       "date": "2022-01-12T10:05:57.897Z",
       "id": 2
-    },
-    {
-      "message": "Internet not working",
-      "attention": false,
-      "tech": "Sam Smith",
-      "date": "2022-01-12T10:06:17.155Z",
-      "id": 3
     }
   ],
   "techs": [
