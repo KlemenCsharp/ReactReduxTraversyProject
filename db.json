@@ -1,11 +1,11 @@
 {
   "logs": [
     {
+      "id": 1,
       "message": "Installed new computer",
       "attention": false,
-      "tech": "John Doe",
-      "date": "2022-01-12T10:05:27.267Z",
-      "id": 1
+      "tech": "Jen Williams",
+      "date": "2022-01-12T17:04:42.300Z"
     },
     {
       "id": 2,
@@ -13,6 +13,13 @@
       "attention": false,
       "tech": "John Doe",
       "date": "2022-01-12T16:18:26.497Z"
+    },
+    {
+      "message": "Something",
+      "attention": true,
+      "tech": "Jen Williams",
+      "date": "2022-01-12T16:59:46.082Z",
+      "id": 3
     }
   ],
   "techs": [
